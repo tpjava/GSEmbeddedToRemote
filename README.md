@@ -16,5 +16,6 @@ gsInstance.sh "/./embeddedRemoteSpace?cluster_schema=sync_replicated&total_membe
 <p>
 You should now see two spaces in the UI both with the same data.
 <p>
+You can also monitor the size of the space using JMX by opening localhost:9092. 
 NOTE:
 In the project pom.xml file change the <gsVersion> to reflect your local version.
